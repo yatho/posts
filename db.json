@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque venenatis nulla at arcu blandit egestas. Duis quis tempus ex. In hac habitasse platea dictumst. Etiam sollicitudin elit vitae leo consequat, a facilisis mi eleifend. Nullam ut egestas odio, ac malesuada velit. Vestibulum non erat a dui porta luctus. Nam vel consectetur ante. Vestibulum mauris diam, auctor et lacus a, consequat ornare tortor. Donec finibus efficitur purus.",
+      "author": 1,
+      "photo": "https://placehold.co/600x400/orange/white?text=Post+1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "content": "Proin lacinia sed augue eu euismod. Nunc sit amet nisl tempor, vehicula enim vitae, convallis tellus. Nam pellentesque purus nunc, nec iaculis mauris luctus fringilla. Ut laoreet euismod erat non feugiat. Fusce sapien turpis, pharetra at orci in, molestie facilisis nibh. Nulla volutpat turpis nec orci rutrum laoreet. Sed commodo augue sit amet lorem laoreet porta. Sed eleifend nibh nibh, in facilisis justo pretium non. Morbi nunc leo, elementum et enim sit amet, semper sodales quam. Aliquam porta auctor velit tempor consequat. Nulla luctus aliquet sagittis. Quisque tristique condimentum pellentesque. Sed vulputate venenatis pretium. Quisque et lorem eget odio aliquet tincidunt.",
+      "author": 2,
+      "photo": "https://placehold.co/600x400/red/white?text=Post+2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "content": "Phasellus tempor erat non sapien convallis scelerisque. Praesent congue id leo in semper. Proin lobortis dictum tortor, id bibendum nulla accumsan ut. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus euismod lorem eu sollicitudin ultrices. Morbi ut risus gravida neque varius tempor. Duis nisl ex, pulvinar eu lobortis non, porttitor euismod ipsum. Aliquam consectetur ante eget sem suscipit fringilla. Sed porta id enim sit amet condimentum. Nulla cursus congue lorem quis maximus. Sed ac ex vel tellus maximus congue. Aenean laoreet tortor erat, non dignissim odio tempor in. Proin semper luctus facilisis. Integer dignissim est vitae dapibus commodo. Mauris finibus sollicitudin purus sed porttitor.",
+      "author": 3,
+      "photo": "https://placehold.co/600x400/black/white?text=Post+3"
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "content": "Quisque fringilla sem dolor, a dignissim metus porta a. Sed semper nunc sit amet turpis maximus, vitae tincidunt justo dignissim. Phasellus gravida condimentum felis non vehicula. Nulla sit amet quam scelerisque, blandit sem vel, mollis ipsum. Vivamus sed lobortis justo. Suspendisse ut lectus lectus. In odio sapien, mollis at ligula quis, euismod blandit mauris. Nulla consectetur massa nisl, vel fringilla tortor placerat non. In convallis vestibulum massa, in suscipit libero pulvinar vel. Vestibulum orci elit, rhoncus a tellus vitae, finibus gravida magna. Duis placerat egestas ipsum eget volutpat. Quisque dignissim vel nisl id scelerisque. Aliquam ac dapibus ante, eget dapibus tellus. Sed ut suscipit velit, vitae faucibus ex. Donec interdum non lacus ornare rhoncus. Pellentesque odio sem, aliquam id urna non, egestas mollis diam.",
+      "author": 3,
+      "photo": "https://placehold.co/600x400/darkgrey/green?text=Post+4"
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "content": "Mauris semper auctor lectus. Nullam lorem nulla, semper vitae ipsum vitae, tincidunt malesuada erat. Donec laoreet finibus lacus quis semper. Quisque nisl dolor, malesuada ut elit faucibus, posuere gravida dui. Maecenas convallis magna enim, sit amet fringilla sem placerat in. Phasellus pellentesque augue nec velit fringilla molestie. Suspendisse in leo lorem. Integer libero quam, suscipit et erat vitae, porttitor mattis sem. Proin scelerisque, ante et aliquam semper, ex eros malesuada nibh, consectetur venenatis leo eros at nisl. Donec nisl sapien, fringilla et dictum ac, pulvinar eget lectus. Donec et lorem massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur ultrices est vitae porta maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "author": 3,
+      "photo": "https://placehold.co/600x400/darkgrey/green?text=Post+5"
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "content": "Vivamus fermentum dapibus gravida. In hac habitasse platea dictumst. Aenean ullamcorper interdum ligula, quis dapibus lectus vestibulum at. Nunc maximus, elit quis congue ultrices, justo ex condimentum tortor, vestibulum blandit orci dui ac lacus. Ut at magna pharetra, laoreet sapien eu, rutrum quam. Pellentesque sit amet nisl eget orci vulputate posuere. Integer turpis mi, tincidunt at posuere ac, auctor at mauris.",
+      "author": 3,
+      "photo": "https://placehold.co/600x400/lightgrey/blue?text=Post+6"
+    },
+    {
+      "id": 7,
+      "title": "Post 7",
+      "content": "Etiam tristique nisi eu tempor sagittis. Fusce sollicitudin magna sed molestie faucibus. Vestibulum in elit fringilla, pharetra orci auctor, vehicula leo. Pellentesque in magna ultrices magna volutpat cursus ac a nisl. Curabitur tempor arcu et enim semper, in luctus risus consequat. Pellentesque a lorem quis enim dignissim mollis. Morbi sed nisl metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin condimentum massa a orci tristique mollis. Aliquam rutrum porttitor nulla et tincidunt. Proin lacinia volutpat justo non rutrum.",
+      "author": 2,
+      "photo": "https://placehold.co/600x400/black/green?text=Post+7"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "birthName": "Antoine de Saint Exupéry",
+      "pseudo": ["Pique la Lune"],
+      "address": {
+        "number": "42",
+        "street": "Rue Saint Exupéry",
+        "postalCode": "69000",
+        "city": "Lyon",
+        "country": "France"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Roland Garros",
+      "pseudo": ["Cloud Kisser"],
+      "address": {
+        "number": "6",
+        "street": "Rue Jean Cocteau",
+        "postalCode": "97400",
+        "city": "Saint-Denis",
+        "country": "Réunion"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Jean Mermoz",
+      "pseudo": ["Archange"],
+      "address": {
+        "number": "15-9",
+        "street": "Rue du Dr Josso",
+        "postalCode": "02500",
+        "city": "Aubenton",
+        "country": "France"
+      }
+    }
+  ]
+}
