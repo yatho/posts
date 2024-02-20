@@ -53,7 +53,8 @@
   "authors": [
     {
       "id": 1,
-      "birthName": "Antoine de Saint Exupéry",
+      "name": "Antoine de Saint Exupéry",
+      "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rtl.fr%2Fculture%2Farts-spectacles%2Fdes-documents-inedits-revelent-l-amour-cache-d-antoine-de-saint-exupery-7800811667&psig=AOvVaw3p3dEDdqbDtYZErdKFRCkC&ust=1708546164820000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNip_MvcuoQDFQAAAAAdAAAAABAE",
       "pseudo": ["Pique la Lune"],
       "address": {
         "number": "42",
@@ -66,6 +67,7 @@
     {
       "id": 2,
       "name": "Roland Garros",
+      "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.galerie-roger-viollet.fr%2Ffr%2Fphoto-roland-garros-1888-1918-officier-aviateur-854629-3829329550&psig=AOvVaw2edW4STEspNFWD5Xj9ed32&ust=1708546115487000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOChqrTcuoQDFQAAAAAdAAAAABAJ",
       "pseudo": ["Cloud Kisser"],
       "address": {
         "number": "6",
@@ -78,6 +80,7 @@
     {
       "id": 3,
       "name": "Jean Mermoz",
+      "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.francebleu.fr%2Femissions%2Fobjectif-ciel%2Ftoulouse%2Fsaint-exupery-et-mermoz-a-la-vie-a-la-mort&psig=AOvVaw1D7xhdxL13QyS5WoBFR9q8&ust=1708546050416000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMib4pXcuoQDFQAAAAAdAAAAABAK",
       "pseudo": ["Archange"],
       "address": {
         "number": "15-9",
