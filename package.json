@@ -1,0 +1,11 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "Post api for angular advanced training",
+  "scripts": {
+    "start": "npx json-server db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
